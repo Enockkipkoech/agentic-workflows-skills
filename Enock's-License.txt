@@ -1,0 +1,33 @@
+ENOCK KIPKOECH SOFTWARE LICENSE
+
+Copyright © 2026 Enock Kipkoech. All rights reserved.
+
+1. OWNERSHIP
+The source code, documentation, designs, and other materials contained
+in this repository are owned by the copyright holder unless otherwise
+stated.
+
+2. PERMITTED USE
+You may view and evaluate the source code for personal, educational,
+and research purposes.
+
+3. RESTRICTIONS
+Without prior written permission, you may not:
+- commercially use this software;
+- redistribute the source code;
+- sublicense the software;
+- sell or otherwise monetize the software;
+- use the project name, trademarks, branding, or logos.
+
+4. MODIFICATIONS
+You may create private modifications for personal or educational use.
+Modified versions may not be publicly distributed without permission.
+
+5. THIRD-PARTY SOFTWARE
+Third-party dependencies remain subject to their respective licenses.
+
+6. WARRANTY
+This software is provided "as is", without warranties of any kind.
+
+7. COPYRIGHT
+All rights not expressly granted by this license are reserved.
