@@ -78,6 +78,10 @@ npx skills@latest add Enockkipkoech/agentic-workflows-skills \
 /technical-interview
 ```
 
+### Skill Templates
+
+- Use When -> Don't Use When -> Workflow -> Rules -> Examples ->  Edge Cases -> References
+
 ## Repository Structure:
 
 agentic-workflows-skills/
