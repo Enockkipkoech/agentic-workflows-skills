@@ -82,9 +82,12 @@ npx skills@latest add Enockkipkoech/agentic-workflows-skills \
 
 - Use When -> Don't Use When -> Workflow -> Rules -> Examples ->  Edge Cases -> References
 ## Repository Structure
+# Repository Structure
+
+Layout of `agentic-workflows-skills/` (35 directories, 82 files).
 
 ```mermaid
-graph TD
+graph LR
     ROOT["agentic-workflows-skills/"]
 
     %% Root files
@@ -230,7 +233,7 @@ graph TD
     TEST_AGENTS --> TEST_OPENAI["openai.yaml"]
     TEST --> TEST_MODES["modes/"]
     TEST_MODES --> SETUP["setup.md"]
-
+```
 
 ## Philosophy
 
