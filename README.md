@@ -18,22 +18,22 @@ research, and technical problem solving.
 ### Install the collection
 
 ```bash
-npx skills@latest add Enockkipkoech/agentic-workflows-skills
+npx skills@latest add Enockkipkoech/agentic-workflows-skills/skills && npx skills@latest add Enockkipkoech/agentic-workflows-skills/workflows 
 ```
 
 ### Install with a specific agent(claude-code, copilot,  gpt-5, codex,kimi etc.)
 ```bash
-npx skills@latest add Enockkipkoech/agentic-workflows-skills \
+npx skills@latest add Enockkipkoech/agentic-workflows-skills && npx skills@latest add Enockkipkoech/agentic-workflows-skills/workflows \
   -a claude-code
  ``` 
 
  ### commands
  ```bash
-npx skills@latest add Enockkipkoech/agentic-workflows-skills \
+npx skills@latest add Enockkipkoech/agentic-workflows-skills/skills && npx skills@latest add Enockkipkoech/agentic-workflows-skills/workflows \
   --list
 
 npx skills@latest add Enockkipkoech/agentic-workflows-skills \
-  --skill nodejs-typescript
+  --skill nodejs-typescriptSelect
 
  ```
 
